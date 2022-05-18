@@ -21,6 +21,7 @@ CAUTION: The following images are generated on Windows 11. On other OS, the resu
 ![screenshot O](./images/O.png)
 ![screenshot P](./images/P.png)
 ![screenshot Q](./images/Q.png)
+![screenshot R](./images/R.png)
 ![screenshot S](./images/S.png)
 ![screenshot T](./images/T.png)
 ![screenshot U](./images/U.png)
